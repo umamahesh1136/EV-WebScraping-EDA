@@ -3,9 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![BeautifulSoup](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-orange)
 ![Pandas](https://img.shields.io/badge/Data%20Cleaning-Pandas-green)
-![Plotly](https://img.shields.io/badge/Data%20Visualization-Plotly-blueviolet)
-![Records](https://img.shields.io/badge/Records-1%2C146-lightgrey)
-![Status](https://img.shields.io/badge/Project-Active-yellow)
 
 ---
 
